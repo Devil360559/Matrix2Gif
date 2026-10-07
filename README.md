@@ -19,12 +19,14 @@ There are features that let you reorder the sequence, reverse the direction of t
 And More Features To Come.
 
 # Disclamer 
-This is made with Python. 
-
 It is just a program I made since there's no other program that does anything similar to Armoury Crate. 
 (g-helper does allow you to put gifs for the Anime Matrix, but only 1 gif at a time)
-Hence, the idea to make this program.
+Hence, the idea to make this program. 
+
+It is made with AI as a collabertive and helping tool, but all code goes under scrutiny before verifying that it safe and performs as expected.
 
 Be Aware, this is made in my free time, so updates and releases will be slow. 
 
-The Program is tested extensively before releases, on my Asus ROG Zephyrus G14 (2021) GA401QE
+The Program is tested extensively before releases, on my Asus ROG Zephyrus G14 (2021) GA401QE, though it should be able to be used for other device too.
+
+
